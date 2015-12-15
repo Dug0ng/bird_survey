@@ -1,3 +1,4 @@
+# All rights reserved
 # Analyze data file
 
 Read data file
