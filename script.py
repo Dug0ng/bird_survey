@@ -5,3 +5,5 @@ Read data file
 Plot data on chart
 
 Run analysis
+
+Discuss results
